@@ -2,7 +2,7 @@
 
 # Orchestrating Distributed Materials Acceleration Platform Tutorial
 
-This tutorial for orchestrating distributed materials acceleration platform was prepared for the BIG-MAP AI School held in January 2022 by [Fuzhan Rahmanian](fuzhan.rahmanian@kit.edu) and [Jack Flowers](jack.flowers@kit.edu).
+This tutorial for orchestrating distributed materials acceleration platform was prepared for the BIG-MAP AI School held in January 2022 by [Fuzhan Rahmanian](https://github.com/fuzhanrahmanian) and [Jack Flowers](jack.flowers@kit.edu).
 
 This repository provides a series of Jupyter Notebooks along with a series of exercises that serve as an overview of the basic functionality of the integration between instruments required for high throughput experimentation
 
